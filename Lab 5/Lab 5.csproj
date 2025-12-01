@@ -3,12 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Lab_5</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Lab 5\Lab 5.csproj" />
-  </ItemGroup>
 
 </Project>
